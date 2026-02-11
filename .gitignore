@@ -1,6 +1,5 @@
 remoteassets/
 *pycache*/
-*log
 results/
 *.bat
 *init*
